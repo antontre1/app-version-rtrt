@@ -5,8 +5,8 @@
       "enabled": true
     },
     "ios": {
-      "currentVersion": "1.0.0",
-      "minVersion": "1.0.0",
+      "currentVersion": "1.0.1",
+      "minVersion": "1.0.1",
       "storeUrl": "https://apps.apple.com/app/id6756491544"
     },
     "android": {
@@ -14,7 +14,7 @@
       "minVersion": "1.0.0",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.rtrt.app"
     },
-    "forceUpdate": false,
+    "forceUpdate": true,
     "maintenanceMode": false,
     "maintenanceMessage": ""
   }
