@@ -15,6 +15,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.rtrt.app"
     },
     "forceUpdate": false,
-    "maintenanceMode": false,
-    "maintenanceMessage": ""
+    "maintenanceMode": true,
+    "maintenanceMessage": "Mise a jour en cours. Retour prevu dans 30 minutes."
   }
